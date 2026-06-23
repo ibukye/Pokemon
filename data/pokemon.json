@@ -1,0 +1,6259 @@
+{
+  "フシギバナ": {
+    "number": "003",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "しんりょく",
+      "ようりょくそ"
+    ],
+    "moves": [],
+    "mega": "メガフシギバナ"
+  },
+  "リザードン": {
+    "number": "006",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "sp_attack": 109,
+      "sp_defense": 85,
+      "speed": 100
+    },
+    "abilities": [
+      "もうか",
+      "サンパワー"
+    ],
+    "moves": [],
+    "mega": [
+      "メガリザードンX",
+      "メガリザードンY"
+    ]
+  },
+  "カメックス": {
+    "number": "009",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "sp_attack": 85,
+      "sp_defense": 105,
+      "speed": 78
+    },
+    "abilities": [
+      "げきりゅう",
+      "あめうけざら"
+    ],
+    "moves": [],
+    "mega": "メガカメックス"
+  },
+  "スピアー": {
+    "number": "015",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "sp_attack": 45,
+      "sp_defense": 80,
+      "speed": 75
+    },
+    "abilities": [
+      "むしのしらせ",
+      "スナイパー"
+    ],
+    "moves": [],
+    "mega": "メガスピアー"
+  },
+  "ピジョット": {
+    "number": "018",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 101
+    },
+    "abilities": [
+      "するどいめ",
+      "ちどりあし",
+      "はとむね"
+    ],
+    "moves": [],
+    "mega": "メガピジョット"
+  },
+  "アーボック": {
+    "number": "024",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "sp_attack": 65,
+      "sp_defense": 79,
+      "speed": 80
+    },
+    "abilities": [
+      "いかく",
+      "だっぴ",
+      "きんちょうかん"
+    ],
+    "moves": []
+  },
+  "ライチュウ": {
+    "number": "026",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "sp_attack": 90,
+      "sp_defense": 80,
+      "speed": 110
+    },
+    "abilities": [
+      "せいでんき",
+      "ひらいしん"
+    ],
+    "moves": [],
+    "mega": [
+      "メガライチュウX",
+      "メガライチュウY"
+    ]
+  },
+  "ピクシー": {
+    "number": "036",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "sp_attack": 95,
+      "sp_defense": 90,
+      "speed": 60
+    },
+    "abilities": [
+      "メロメロボディ",
+      "マジックガード",
+      "てんねん"
+    ],
+    "moves": [],
+    "mega": "メガピクシー"
+  },
+  "キュウコン": {
+    "number": "038",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "sp_attack": 81,
+      "sp_defense": 100,
+      "speed": 100
+    },
+    "abilities": [
+      "もらいび",
+      "ひでり"
+    ],
+    "moves": []
+  },
+  "ラフレシア": {
+    "number": "045",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "sp_attack": 110,
+      "sp_defense": 90,
+      "speed": 50
+    },
+    "abilities": [
+      "ようりょくそ",
+      "ほうし"
+    ],
+    "moves": []
+  },
+  "ウインディ": {
+    "number": "059",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "sp_attack": 100,
+      "sp_defense": 80,
+      "speed": 95
+    },
+    "abilities": [
+      "いかく",
+      "もらいび",
+      "せいぎのこころ"
+    ],
+    "moves": []
+  },
+  "フーディン": {
+    "number": "065",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "sp_attack": 135,
+      "sp_defense": 95,
+      "speed": 120
+    },
+    "abilities": [
+      "シンクロ",
+      "せいしんりょく",
+      "マジックガード"
+    ],
+    "moves": [],
+    "mega": "メガフーディン"
+  },
+  "カイリキー": {
+    "number": "068",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "sp_attack": 65,
+      "sp_defense": 85,
+      "speed": 55
+    },
+    "abilities": [
+      "こんじょう",
+      "ノーガード",
+      "ふくつのこころ"
+    ],
+    "moves": []
+  },
+  "ウツボット": {
+    "number": "071",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "sp_attack": 100,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "ようりょくそ",
+      "くいしんぼう"
+    ],
+    "moves": [],
+    "mega": "メガウツボット"
+  },
+  "ヤドラン": {
+    "number": "080",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "sp_attack": 100,
+      "sp_defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "どんかん",
+      "マイペース",
+      "さいせいりょく"
+    ],
+    "moves": [],
+    "mega": "メガヤドラン"
+  },
+  "ゲンガー": {
+    "number": "094",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 130,
+      "sp_defense": 75,
+      "speed": 110
+    },
+    "abilities": [
+      "のろわれボディ"
+    ],
+    "moves": [],
+    "mega": "メガゲンガー"
+  },
+  "ガルーラ": {
+    "number": "115",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "sp_attack": 40,
+      "sp_defense": 80,
+      "speed": 90
+    },
+    "abilities": [
+      "はやおき",
+      "きもったま",
+      "せいしんりょく"
+    ],
+    "moves": [],
+    "mega": "メガガルーラ"
+  },
+  "スターミー": {
+    "number": "121",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 85,
+      "sp_attack": 100,
+      "sp_defense": 85,
+      "speed": 115
+    },
+    "abilities": [
+      "はっこう",
+      "しぜんかいふく",
+      "アナライズ"
+    ],
+    "moves": [],
+    "mega": "メガスターミー"
+  },
+  "カイロス": {
+    "number": "127",
+    "types": [
+      "Bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "sp_attack": 55,
+      "sp_defense": 70,
+      "speed": 85
+    },
+    "abilities": [
+      "かいりきバサミ",
+      "かたやぶり",
+      "じしんかじょう"
+    ],
+    "moves": [],
+    "mega": "メガカイロス"
+  },
+  "ケンタロス": {
+    "number": "128",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "sp_attack": 40,
+      "sp_defense": 70,
+      "speed": 110
+    },
+    "abilities": [
+      "いかく",
+      "いかりのつぼ",
+      "ちからずく"
+    ],
+    "moves": []
+  },
+  "ギャラドス": {
+    "number": "130",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "sp_attack": 60,
+      "sp_defense": 100,
+      "speed": 81
+    },
+    "abilities": [
+      "いかく",
+      "じしんかじょう"
+    ],
+    "moves": [],
+    "mega": "メガギャラドス"
+  },
+  "メタモン": {
+    "number": "132",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 48,
+      "defense": 48,
+      "sp_attack": 48,
+      "sp_defense": 48,
+      "speed": 48
+    },
+    "abilities": [
+      "じゅうなん",
+      "かわりもの"
+    ],
+    "moves": []
+  },
+  "シャワーズ": {
+    "number": "134",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 110,
+      "sp_defense": 95,
+      "speed": 65
+    },
+    "abilities": [
+      "ちょすい",
+      "うるおいボディ"
+    ],
+    "moves": []
+  },
+  "サンダース": {
+    "number": "135",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 110,
+      "sp_defense": 95,
+      "speed": 130
+    },
+    "abilities": [
+      "ちくでん",
+      "はやあし"
+    ],
+    "moves": []
+  },
+  "ブースター": {
+    "number": "136",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "sp_attack": 95,
+      "sp_defense": 110,
+      "speed": 65
+    },
+    "abilities": [
+      "もらいび",
+      "こんじょう"
+    ],
+    "moves": []
+  },
+  "プテラ": {
+    "number": "142",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "sp_attack": 60,
+      "sp_defense": 75,
+      "speed": 130
+    },
+    "abilities": [
+      "いしあたま",
+      "プレッシャー",
+      "きんちょうかん"
+    ],
+    "moves": [],
+    "mega": "メガプテラ"
+  },
+  "カビゴン": {
+    "number": "143",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "sp_attack": 65,
+      "sp_defense": 110,
+      "speed": 30
+    },
+    "abilities": [
+      "めんえき",
+      "あついしぼう",
+      "くいしんぼう"
+    ],
+    "moves": []
+  },
+  "カイリュー": {
+    "number": "149",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "せいしんりょく",
+      "マルチスケイル"
+    ],
+    "moves": [],
+    "mega": "メガカイリュー"
+  },
+  "バクフーン": {
+    "number": "157",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "sp_attack": 109,
+      "sp_defense": 85,
+      "speed": 100
+    },
+    "abilities": [
+      "もうか",
+      "もらいび"
+    ],
+    "moves": []
+  },
+  "オーダイル": {
+    "number": "160",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105,
+      "defense": 100,
+      "sp_attack": 79,
+      "sp_defense": 83,
+      "speed": 78
+    },
+    "abilities": [
+      "げきりゅう",
+      "ちからずく"
+    ],
+    "moves": [],
+    "mega": "メガオーダイル"
+  },
+  "アリアドス": {
+    "number": "168",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 70,
+      "sp_attack": 60,
+      "sp_defense": 70,
+      "speed": 40
+    },
+    "abilities": [
+      "むしのしらせ",
+      "ふみん",
+      "スナイパー"
+    ],
+    "moves": []
+  },
+  "デンリュウ": {
+    "number": "181",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 75,
+      "defense": 85,
+      "sp_attack": 115,
+      "sp_defense": 90,
+      "speed": 55
+    },
+    "abilities": [
+      "せいでんき",
+      "プラス"
+    ],
+    "moves": [],
+    "mega": "メガデンリュウ"
+  },
+  "マリルリ": {
+    "number": "184",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 50,
+      "defense": 80,
+      "sp_attack": 60,
+      "sp_defense": 80,
+      "speed": 50
+    },
+    "abilities": [
+      "あついしぼう",
+      "ちからもち",
+      "そうしょく"
+    ],
+    "moves": []
+  },
+  "ニョロトノ": {
+    "number": "186",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 75,
+      "defense": 75,
+      "sp_attack": 90,
+      "sp_defense": 100,
+      "speed": 70
+    },
+    "abilities": [
+      "ちょすい",
+      "しめりけ",
+      "あめふらし"
+    ],
+    "moves": []
+  },
+  "エーフィ": {
+    "number": "196",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 130,
+      "sp_defense": 95,
+      "speed": 110
+    },
+    "abilities": [
+      "シンクロ",
+      "マジックミラー"
+    ],
+    "moves": []
+  },
+  "ブラッキー": {
+    "number": "197",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 110,
+      "sp_attack": 60,
+      "sp_defense": 130,
+      "speed": 65
+    },
+    "abilities": [
+      "シンクロ",
+      "せいしんりょく"
+    ],
+    "moves": []
+  },
+  "ヤドキング": {
+    "number": "199",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 80,
+      "sp_attack": 100,
+      "sp_defense": 110,
+      "speed": 30
+    },
+    "abilities": [
+      "どんかん",
+      "マイペース",
+      "さいせいりょく"
+    ],
+    "moves": []
+  },
+  "フォレトス": {
+    "number": "205",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 140,
+      "sp_attack": 60,
+      "sp_defense": 60,
+      "speed": 40
+    },
+    "abilities": [
+      "がんじょう",
+      "ぼうじん"
+    ],
+    "moves": []
+  },
+  "ハガネール": {
+    "number": "208",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 85,
+      "defense": 200,
+      "sp_attack": 55,
+      "sp_defense": 65,
+      "speed": 30
+    },
+    "abilities": [
+      "いしあたま",
+      "がんじょう",
+      "ちからずく"
+    ],
+    "moves": [],
+    "mega": "メガハガネール"
+  },
+  "ハリーセン": {
+    "number": "211",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 85,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 85
+    },
+    "abilities": [
+      "どくのトゲ",
+      "すいすい",
+      "いかく"
+    ],
+    "moves": []
+  },
+  "ハッサム": {
+    "number": "212",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 130,
+      "defense": 100,
+      "sp_attack": 55,
+      "sp_defense": 80,
+      "speed": 65
+    },
+    "abilities": [
+      "むしのしらせ",
+      "テクニシャン",
+      "ライトメタル"
+    ],
+    "moves": [],
+    "mega": "メガハッサム"
+  },
+  "ヘラクロス": {
+    "number": "214",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 75,
+      "sp_attack": 40,
+      "sp_defense": 95,
+      "speed": 85
+    },
+    "abilities": [
+      "むしのしらせ",
+      "こんじょう",
+      "じしんかじょう"
+    ],
+    "moves": [],
+    "mega": "メガヘラクロス"
+  },
+  "エアームド": {
+    "number": "227",
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 140,
+      "sp_attack": 40,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "するどいめ",
+      "がんじょう",
+      "くだけるよろい"
+    ],
+    "moves": [],
+    "mega": "メガエアームド"
+  },
+  "ヘルガー": {
+    "number": "229",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 50,
+      "sp_attack": 110,
+      "sp_defense": 80,
+      "speed": 95
+    },
+    "abilities": [
+      "はやおき",
+      "もらいび",
+      "きんちょうかん"
+    ],
+    "moves": [],
+    "mega": "メガヘルガー"
+  },
+  "バンギラス": {
+    "number": "248",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 134,
+      "defense": 110,
+      "sp_attack": 95,
+      "sp_defense": 100,
+      "speed": 61
+    },
+    "abilities": [
+      "すなおこし",
+      "きんちょうかん"
+    ],
+    "moves": [],
+    "mega": "メガバンギラス"
+  },
+  "ジュカイン": {
+    "number": "254",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 65,
+      "sp_attack": 105,
+      "sp_defense": 85,
+      "speed": 120
+    },
+    "abilities": [
+      "しんりょく",
+      "かるわざ"
+    ],
+    "moves": [],
+    "mega": "メガジュカイン"
+  },
+  "バシャーモ": {
+    "number": "257",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 70,
+      "sp_attack": 110,
+      "sp_defense": 70,
+      "speed": 80
+    },
+    "abilities": [
+      "もうか",
+      "かそく"
+    ],
+    "moves": [],
+    "mega": "メガバシャーモ"
+  },
+  "ラグラージ": {
+    "number": "260",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 110,
+      "defense": 90,
+      "sp_attack": 85,
+      "sp_defense": 90,
+      "speed": 60
+    },
+    "abilities": [
+      "げきりゅう",
+      "しめりけ"
+    ],
+    "moves": [],
+    "mega": "メガラグラージ"
+  },
+  "ペリッパー": {
+    "number": "279",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 100,
+      "sp_attack": 95,
+      "sp_defense": 70,
+      "speed": 65
+    },
+    "abilities": [
+      "するどいめ",
+      "あめふらし",
+      "あめうけざら"
+    ],
+    "moves": []
+  },
+  "サーナイト": {
+    "number": "282",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 65,
+      "defense": 65,
+      "sp_attack": 125,
+      "sp_defense": 115,
+      "speed": 80
+    },
+    "abilities": [
+      "シンクロ",
+      "トレース",
+      "テレパシー"
+    ],
+    "moves": [],
+    "mega": "メガサーナイト"
+  },
+  "ヤミラミ": {
+    "number": "302",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 75,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 50
+    },
+    "abilities": [
+      "するどいめ",
+      "あとだし",
+      "いたずらごころ"
+    ],
+    "moves": [],
+    "mega": "メガヤミラミ"
+  },
+  "クチート": {
+    "number": "303",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 85,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 50
+    },
+    "abilities": [
+      "かいりきバサミ",
+      "いかく",
+      "ちからずく"
+    ],
+    "moves": [],
+    "mega": "メガクチート"
+  },
+  "ボスゴドラ": {
+    "number": "306",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 180,
+      "sp_attack": 60,
+      "sp_defense": 60,
+      "speed": 50
+    },
+    "abilities": [
+      "がんじょう",
+      "いしあたま",
+      "ヘヴィメタル"
+    ],
+    "moves": [],
+    "mega": "メガボスゴドラ"
+  },
+  "チャーレム": {
+    "number": "308",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 75,
+      "sp_attack": 60,
+      "sp_defense": 75,
+      "speed": 80
+    },
+    "abilities": [
+      "ヨガパワー",
+      "テレパシー"
+    ],
+    "moves": [],
+    "mega": "メガチャーレム"
+  },
+  "ライボルト": {
+    "number": "310",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 60,
+      "sp_attack": 105,
+      "sp_defense": 60,
+      "speed": 105
+    },
+    "abilities": [
+      "せいでんき",
+      "ひらいしん",
+      "マイナス"
+    ],
+    "moves": [],
+    "mega": "メガライボルト"
+  },
+  "サメハダー": {
+    "number": "319",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 40,
+      "sp_attack": 95,
+      "sp_defense": 40,
+      "speed": 95
+    },
+    "abilities": [
+      "さめはだ",
+      "かそく"
+    ],
+    "moves": [],
+    "mega": "メガサメハダー"
+  },
+  "バクーダ": {
+    "number": "323",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 70,
+      "sp_attack": 105,
+      "sp_defense": 75,
+      "speed": 40
+    },
+    "abilities": [
+      "マグマのよろい",
+      "ハードロック",
+      "いかりのつぼ"
+    ],
+    "moves": [],
+    "mega": "メガバクーダ"
+  },
+  "コータス": {
+    "number": "324",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 140,
+      "sp_attack": 85,
+      "sp_defense": 70,
+      "speed": 20
+    },
+    "abilities": [
+      "しろいけむり",
+      "ひでり",
+      "シェルアーマー"
+    ],
+    "moves": []
+  },
+  "チルタリス": {
+    "number": "334",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 70,
+      "defense": 90,
+      "sp_attack": 70,
+      "sp_defense": 105,
+      "speed": 80
+    },
+    "abilities": [
+      "しぜんかいふく",
+      "ノーてんき"
+    ],
+    "moves": [],
+    "mega": "メガチルタリス"
+  },
+  "ミロカロス": {
+    "number": "350",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 60,
+      "defense": 79,
+      "sp_attack": 100,
+      "sp_defense": 125,
+      "speed": 81
+    },
+    "abilities": [
+      "ふしぎなうろこ",
+      "かちき",
+      "メロメロボディ"
+    ],
+    "moves": []
+  },
+  "ポワルン": {
+    "number": "351",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 70,
+      "defense": 70,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "てんきや"
+    ],
+    "moves": []
+  },
+  "ジュペッタ": {
+    "number": "354",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 115,
+      "defense": 65,
+      "sp_attack": 83,
+      "sp_defense": 63,
+      "speed": 65
+    },
+    "abilities": [
+      "ふみん",
+      "おみとおし",
+      "のろわれボディ"
+    ],
+    "moves": [],
+    "mega": "メガジュペッタ"
+  },
+  "チリーン": {
+    "number": "358",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 50,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 90,
+      "speed": 65
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": [],
+    "mega": "メガチリーン"
+  },
+  "アブソル": {
+    "number": "359",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "sp_attack": 75,
+      "sp_defense": 60,
+      "speed": 75
+    },
+    "abilities": [
+      "プレッシャー",
+      "きょううん",
+      "せいぎのこころ"
+    ],
+    "moves": [],
+    "mega": "メガアブソル"
+  },
+  "オニゴーリ": {
+    "number": "362",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 80,
+      "sp_attack": 80,
+      "sp_defense": 80,
+      "speed": 80
+    },
+    "abilities": [
+      "せいしんりょく",
+      "アイスボディ",
+      "ムラっけ"
+    ],
+    "moves": [],
+    "mega": "メガオニゴーリ"
+  },
+  "メタグロス": {
+    "number": "376",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 135,
+      "defense": 130,
+      "sp_attack": 95,
+      "sp_defense": 90,
+      "speed": 70
+    },
+    "abilities": [
+      "クリアボディ",
+      "ライトメタル"
+    ],
+    "moves": [],
+    "mega": "メガメタグロス"
+  },
+  "ドダイトス": {
+    "number": "389",
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 109,
+      "defense": 105,
+      "sp_attack": 75,
+      "sp_defense": 85,
+      "speed": 56
+    },
+    "abilities": [
+      "しんりょく",
+      "シェルアーマー"
+    ],
+    "moves": []
+  },
+  "ゴウカザル": {
+    "number": "392",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 104,
+      "defense": 71,
+      "sp_attack": 104,
+      "sp_defense": 71,
+      "speed": 108
+    },
+    "abilities": [
+      "もうか",
+      "てつのこぶし"
+    ],
+    "moves": []
+  },
+  "エンペルト": {
+    "number": "395",
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 84,
+      "attack": 86,
+      "defense": 88,
+      "sp_attack": 111,
+      "sp_defense": 101,
+      "speed": 60
+    },
+    "abilities": [
+      "げきりゅう",
+      "かちき"
+    ],
+    "moves": []
+  },
+  "ムクホーク": {
+    "number": "398",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 120,
+      "defense": 70,
+      "sp_attack": 50,
+      "sp_defense": 60,
+      "speed": 100
+    },
+    "abilities": [
+      "いかく",
+      "すてみ"
+    ],
+    "moves": [],
+    "mega": "メガムクホーク"
+  },
+  "レントラー": {
+    "number": "405",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 79,
+      "sp_attack": 95,
+      "sp_defense": 79,
+      "speed": 70
+    },
+    "abilities": [
+      "とうそうしん",
+      "いかく",
+      "こんじょう"
+    ],
+    "moves": []
+  },
+  "ロズレイド": {
+    "number": "407",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 70,
+      "defense": 65,
+      "sp_attack": 125,
+      "sp_defense": 105,
+      "speed": 90
+    },
+    "abilities": [
+      "しぜんかいふく",
+      "どくのトゲ",
+      "テクニシャン"
+    ],
+    "moves": []
+  },
+  "ラムパルド": {
+    "number": "409",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 97,
+      "attack": 165,
+      "defense": 60,
+      "sp_attack": 65,
+      "sp_defense": 50,
+      "speed": 58
+    },
+    "abilities": [
+      "かたやぶり",
+      "ちからずく"
+    ],
+    "moves": []
+  },
+  "トリデプス": {
+    "number": "411",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 52,
+      "defense": 168,
+      "sp_attack": 47,
+      "sp_defense": 138,
+      "speed": 30
+    },
+    "abilities": [
+      "がんじょう",
+      "ぼうおん"
+    ],
+    "moves": []
+  },
+  "ミミロップ": {
+    "number": "428",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 76,
+      "defense": 84,
+      "sp_attack": 54,
+      "sp_defense": 96,
+      "speed": 105
+    },
+    "abilities": [
+      "メロメロボディ",
+      "ぶきよう",
+      "じゅうなん"
+    ],
+    "moves": [],
+    "mega": "メガミミロップ"
+  },
+  "ミカルゲ": {
+    "number": "442",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 92,
+      "defense": 108,
+      "sp_attack": 92,
+      "sp_defense": 108,
+      "speed": 35
+    },
+    "abilities": [
+      "プレッシャー",
+      "すりぬけ"
+    ],
+    "moves": []
+  },
+  "ガブリアス": {
+    "number": "445",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 130,
+      "defense": 95,
+      "sp_attack": 80,
+      "sp_defense": 85,
+      "speed": 102
+    },
+    "abilities": [
+      "すながくれ",
+      "さめはだ"
+    ],
+    "moves": [],
+    "mega": "メガガブリアス"
+  },
+  "ルカリオ": {
+    "number": "448",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 70,
+      "sp_attack": 115,
+      "sp_defense": 70,
+      "speed": 90
+    },
+    "abilities": [
+      "ふくつのこころ",
+      "せいしんりょく",
+      "せいぎのこころ"
+    ],
+    "moves": [],
+    "mega": "メガルカリオ"
+  },
+  "カバルドン": {
+    "number": "450",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 112,
+      "defense": 118,
+      "sp_attack": 68,
+      "sp_defense": 72,
+      "speed": 47
+    },
+    "abilities": [
+      "すなおこし",
+      "すなのちから"
+    ],
+    "moves": []
+  },
+  "ドクロッグ": {
+    "number": "454",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 106,
+      "defense": 65,
+      "sp_attack": 86,
+      "sp_defense": 65,
+      "speed": 85
+    },
+    "abilities": [
+      "きけんよち",
+      "かんそうはだ",
+      "どくしゅ"
+    ],
+    "moves": []
+  },
+  "ユキノオー": {
+    "number": "460",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 75,
+      "sp_attack": 92,
+      "sp_defense": 85,
+      "speed": 60
+    },
+    "abilities": [
+      "ゆきふらし",
+      "ぼうおん"
+    ],
+    "moves": [],
+    "mega": "メガユキノオー"
+  },
+  "マニューラ": {
+    "number": "461",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 65,
+      "sp_attack": 45,
+      "sp_defense": 85,
+      "speed": 125
+    },
+    "abilities": [
+      "プレッシャー",
+      "わるいてぐせ"
+    ],
+    "moves": []
+  },
+  "ドサイドン": {
+    "number": "464",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 140,
+      "defense": 130,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 40
+    },
+    "abilities": [
+      "ひらいしん",
+      "ハードロック",
+      "すてみ"
+    ],
+    "moves": []
+  },
+  "リーフィア": {
+    "number": "470",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 110,
+      "defense": 130,
+      "sp_attack": 60,
+      "sp_defense": 65,
+      "speed": 95
+    },
+    "abilities": [
+      "リーフガード",
+      "ようりょくそ"
+    ],
+    "moves": []
+  },
+  "グレイシア": {
+    "number": "471",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 110,
+      "sp_attack": 130,
+      "sp_defense": 95,
+      "speed": 65
+    },
+    "abilities": [
+      "ゆきがくれ",
+      "アイスボディ"
+    ],
+    "moves": []
+  },
+  "グライオン": {
+    "number": "472",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 125,
+      "sp_attack": 45,
+      "sp_defense": 75,
+      "speed": 95
+    },
+    "abilities": [
+      "かいりきバサミ",
+      "すながくれ",
+      "ポイズンヒール"
+    ],
+    "moves": []
+  },
+  "マンムー": {
+    "number": "473",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 130,
+      "defense": 80,
+      "sp_attack": 70,
+      "sp_defense": 60,
+      "speed": 80
+    },
+    "abilities": [
+      "どんかん",
+      "ゆきがくれ",
+      "あついしぼう"
+    ],
+    "moves": []
+  },
+  "エルレイド": {
+    "number": "475",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 125,
+      "defense": 65,
+      "sp_attack": 65,
+      "sp_defense": 115,
+      "speed": 80
+    },
+    "abilities": [
+      "ふくつのこころ",
+      "きれあじ",
+      "せいぎのこころ"
+    ],
+    "moves": [],
+    "mega": "メガエルレイド"
+  },
+  "ユキメノコ": {
+    "number": "478",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 70,
+      "sp_attack": 80,
+      "sp_defense": 70,
+      "speed": 110
+    },
+    "abilities": [
+      "ゆきがくれ",
+      "のろわれボディ"
+    ],
+    "moves": [],
+    "mega": "メガユキメノコ"
+  },
+  "ロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 77,
+      "sp_attack": 95,
+      "sp_defense": 77,
+      "speed": 91
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "ヒートロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 107,
+      "sp_attack": 105,
+      "sp_defense": 107,
+      "speed": 86
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "ウォッシュロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 107,
+      "sp_attack": 105,
+      "sp_defense": 107,
+      "speed": 86
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "フロストロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 107,
+      "sp_attack": 105,
+      "sp_defense": 107,
+      "speed": 86
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "スピンロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 107,
+      "sp_attack": 105,
+      "sp_defense": 107,
+      "speed": 86
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "カットロトム": {
+    "number": "479",
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 107,
+      "sp_attack": 105,
+      "sp_defense": 107,
+      "speed": 86
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "ジャローダ": {
+    "number": "497",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 75,
+      "defense": 95,
+      "sp_attack": 75,
+      "sp_defense": 95,
+      "speed": 113
+    },
+    "abilities": [
+      "しんりょく",
+      "あまのじゃく"
+    ],
+    "moves": []
+  },
+  "エンブオー": {
+    "number": "500",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 123,
+      "defense": 65,
+      "sp_attack": 100,
+      "sp_defense": 65,
+      "speed": 65
+    },
+    "abilities": [
+      "もうか",
+      "すてみ"
+    ],
+    "moves": [],
+    "mega": "メガエンブオー"
+  },
+  "ダイケンキ": {
+    "number": "503",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100,
+      "defense": 85,
+      "sp_attack": 108,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "げきりゅう",
+      "シェルアーマー"
+    ],
+    "moves": []
+  },
+  "ミルホッグ": {
+    "number": "505",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 69,
+      "sp_attack": 60,
+      "sp_defense": 69,
+      "speed": 77
+    },
+    "abilities": [
+      "はっこう",
+      "するどいめ",
+      "アナライズ"
+    ],
+    "moves": []
+  },
+  "レパルダス": {
+    "number": "510",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 88,
+      "defense": 50,
+      "sp_attack": 88,
+      "sp_defense": 50,
+      "speed": 106
+    },
+    "abilities": [
+      "じゅうなん",
+      "かるわざ",
+      "いたずらごころ"
+    ],
+    "moves": []
+  },
+  "ヤナッキー": {
+    "number": "512",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "sp_attack": 98,
+      "sp_defense": 63,
+      "speed": 101
+    },
+    "abilities": [
+      "くいしんぼう",
+      "しんりょく"
+    ],
+    "moves": []
+  },
+  "バオッキー": {
+    "number": "514",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "sp_attack": 98,
+      "sp_defense": 63,
+      "speed": 101
+    },
+    "abilities": [
+      "くいしんぼう",
+      "もうか"
+    ],
+    "moves": []
+  },
+  "ヒヤッキー": {
+    "number": "516",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "sp_attack": 98,
+      "sp_defense": 63,
+      "speed": 101
+    },
+    "abilities": [
+      "くいしんぼう",
+      "げきりゅう"
+    ],
+    "moves": []
+  },
+  "ムシャーナ": {
+    "number": "518",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 116,
+      "attack": 55,
+      "defense": 85,
+      "sp_attack": 107,
+      "sp_defense": 95,
+      "speed": 29
+    },
+    "abilities": [
+      "よちむ",
+      "シンクロ",
+      "テレパシー"
+    ],
+    "moves": []
+  },
+  "ドリュウズ": {
+    "number": "530",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 135,
+      "defense": 60,
+      "sp_attack": 50,
+      "sp_defense": 65,
+      "speed": 88
+    },
+    "abilities": [
+      "すなかき",
+      "すなのちから",
+      "かたやぶり"
+    ],
+    "moves": [],
+    "mega": "メガドリュウズ"
+  },
+  "タブンネ": {
+    "number": "531",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 86,
+      "sp_attack": 60,
+      "sp_defense": 86,
+      "speed": 50
+    },
+    "abilities": [
+      "いやしのこころ",
+      "さいせいりょく",
+      "ぶきよう"
+    ],
+    "moves": [],
+    "mega": "メガタブンネ"
+  },
+  "ローブシン": {
+    "number": "534",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140,
+      "defense": 95,
+      "sp_attack": 55,
+      "sp_defense": 65,
+      "speed": 45
+    },
+    "abilities": [
+      "こんじょう",
+      "ちからずく",
+      "てつのこぶし"
+    ],
+    "moves": []
+  },
+  "ペンドラー": {
+    "number": "545",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 89,
+      "sp_attack": 55,
+      "sp_defense": 69,
+      "speed": 112
+    },
+    "abilities": [
+      "どくのトゲ",
+      "むしのしらせ",
+      "かそく"
+    ],
+    "moves": [],
+    "mega": "メガペンドラー"
+  },
+  "エルフーン": {
+    "number": "547",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 67,
+      "defense": 85,
+      "sp_attack": 77,
+      "sp_defense": 75,
+      "speed": 116
+    },
+    "abilities": [
+      "いたずらごころ",
+      "すりぬけ",
+      "ようりょくそ"
+    ],
+    "moves": []
+  },
+  "ワルビアル": {
+    "number": "553",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 117,
+      "defense": 80,
+      "sp_attack": 65,
+      "sp_defense": 70,
+      "speed": 92
+    },
+    "abilities": [
+      "いかく",
+      "じしんかじょう",
+      "いかりのつぼ"
+    ],
+    "moves": []
+  },
+  "ズルズキン": {
+    "number": "560",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 115,
+      "sp_attack": 45,
+      "sp_defense": 115,
+      "speed": 58
+    },
+    "abilities": [
+      "だっぴ",
+      "じしんかじょう",
+      "いかく"
+    ],
+    "moves": [],
+    "mega": "メガズルズキン"
+  },
+  "デスカーン": {
+    "number": "563",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 50,
+      "defense": 145,
+      "sp_attack": 95,
+      "sp_defense": 105,
+      "speed": 30
+    },
+    "abilities": [
+      "ミイラ"
+    ],
+    "moves": []
+  },
+  "ダストダス": {
+    "number": "569",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 82,
+      "sp_attack": 60,
+      "sp_defense": 82,
+      "speed": 75
+    },
+    "abilities": [
+      "あくしゅう",
+      "くだけるよろい",
+      "ゆうばく"
+    ],
+    "moves": []
+  },
+  "ゾロアーク": {
+    "number": "571",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 105,
+      "defense": 60,
+      "sp_attack": 120,
+      "sp_defense": 60,
+      "speed": 105
+    },
+    "abilities": [
+      "イリュージョン"
+    ],
+    "moves": []
+  },
+  "ランクルス": {
+    "number": "579",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 65,
+      "defense": 75,
+      "sp_attack": 125,
+      "sp_defense": 85,
+      "speed": 30
+    },
+    "abilities": [
+      "ぼうじん",
+      "マジックガード",
+      "さいせいりょく"
+    ],
+    "moves": []
+  },
+  "バイバニラ": {
+    "number": "584",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 95,
+      "defense": 85,
+      "sp_attack": 110,
+      "sp_defense": 95,
+      "speed": 79
+    },
+    "abilities": [
+      "アイスボディ",
+      "ゆきふらし",
+      "くだけるよろい"
+    ],
+    "moves": []
+  },
+  "エモンガ": {
+    "number": "587",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75,
+      "defense": 60,
+      "sp_attack": 75,
+      "sp_defense": 60,
+      "speed": 103
+    },
+    "abilities": [
+      "せいでんき",
+      "でんきエンジン"
+    ],
+    "moves": []
+  },
+  "シビルドン": {
+    "number": "604",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 115,
+      "defense": 80,
+      "sp_attack": 105,
+      "sp_defense": 80,
+      "speed": 50
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": [],
+    "mega": "メガシビルドン"
+  },
+  "シャンデラ": {
+    "number": "609",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 90,
+      "sp_attack": 145,
+      "sp_defense": 90,
+      "speed": 80
+    },
+    "abilities": [
+      "もらいび",
+      "ほのおのからだ",
+      "すりぬけ"
+    ],
+    "moves": [],
+    "mega": "メガシャンデラ"
+  },
+  "ツンベアー": {
+    "number": "614",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 130,
+      "defense": 80,
+      "sp_attack": 70,
+      "sp_defense": 80,
+      "speed": 50
+    },
+    "abilities": [
+      "ゆきがくれ",
+      "ゆきかき",
+      "すいすい"
+    ],
+    "moves": []
+  },
+  "マッギョ": {
+    "number": "618",
+    "types": [
+      "Ground",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 109,
+      "attack": 66,
+      "defense": 84,
+      "sp_attack": 81,
+      "sp_defense": 99,
+      "speed": 32
+    },
+    "abilities": [
+      "せいでんき",
+      "じゅうなん",
+      "すながくれ"
+    ],
+    "moves": []
+  },
+  "ゴルーグ": {
+    "number": "623",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 89,
+      "attack": 124,
+      "defense": 80,
+      "sp_attack": 55,
+      "sp_defense": 80,
+      "speed": 55
+    },
+    "abilities": [
+      "てつのこぶし",
+      "ぶきよう",
+      "ノーガード"
+    ],
+    "moves": [],
+    "mega": "メガゴルーグ"
+  },
+  "サザンドラ": {
+    "number": "635",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 92,
+      "attack": 105,
+      "defense": 90,
+      "sp_attack": 125,
+      "sp_defense": 90,
+      "speed": 98
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": []
+  },
+  "ウルガモス": {
+    "number": "637",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 60,
+      "defense": 65,
+      "sp_attack": 135,
+      "sp_defense": 105,
+      "speed": 100
+    },
+    "abilities": [
+      "ほのおのからだ",
+      "むしのしらせ"
+    ],
+    "moves": []
+  },
+  "ブリガロン": {
+    "number": "652",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 107,
+      "defense": 122,
+      "sp_attack": 74,
+      "sp_defense": 75,
+      "speed": 64
+    },
+    "abilities": [
+      "しんりょく",
+      "ぼうだん"
+    ],
+    "moves": [],
+    "mega": "メガブリガロン"
+  },
+  "マフォクシー": {
+    "number": "655",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 69,
+      "defense": 72,
+      "sp_attack": 114,
+      "sp_defense": 100,
+      "speed": 104
+    },
+    "abilities": [
+      "もうか",
+      "マジシャン"
+    ],
+    "moves": [],
+    "mega": "メガマフォクシー"
+  },
+  "ゲッコウガ": {
+    "number": "658",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 95,
+      "defense": 67,
+      "sp_attack": 103,
+      "sp_defense": 71,
+      "speed": 122
+    },
+    "abilities": [
+      "げきりゅう",
+      "へんげんじざい"
+    ],
+    "moves": [],
+    "mega": "メガゲッコウガ"
+  },
+  "ホルード": {
+    "number": "660",
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 56,
+      "defense": 77,
+      "sp_attack": 50,
+      "sp_defense": 77,
+      "speed": 78
+    },
+    "abilities": [
+      "ものひろい",
+      "ほおぶくろ",
+      "ちからもち"
+    ],
+    "moves": []
+  },
+  "ファイアロー": {
+    "number": "663",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 81,
+      "defense": 71,
+      "sp_attack": 74,
+      "sp_defense": 69,
+      "speed": 126
+    },
+    "abilities": [
+      "ほのおのからだ",
+      "はやてのつばさ"
+    ],
+    "moves": []
+  },
+  "ビビヨン": {
+    "number": "666",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 52,
+      "defense": 50,
+      "sp_attack": 90,
+      "sp_defense": 50,
+      "speed": 89
+    },
+    "abilities": [
+      "りんぷん",
+      "ふくがん",
+      "フレンドガード"
+    ],
+    "moves": []
+  },
+  "カエンジシ": {
+    "number": "668",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 68,
+      "defense": 72,
+      "sp_attack": 109,
+      "sp_defense": 66,
+      "speed": 106
+    },
+    "abilities": [
+      "とうそうしん",
+      "きんちょうかん",
+      "じしんかじょう"
+    ],
+    "moves": [],
+    "mega": "メガカエンジシ"
+  },
+  "フラエッテ(えいえん)": {
+    "number": "670",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 65,
+      "defense": 67,
+      "sp_attack": 125,
+      "sp_defense": 128,
+      "speed": 92
+    },
+    "abilities": [
+      "フラワーベール",
+      "きょうせい"
+    ],
+    "moves": []
+  },
+  "フラージェス": {
+    "number": "671",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 65,
+      "defense": 68,
+      "sp_attack": 112,
+      "sp_defense": 154,
+      "speed": 75
+    },
+    "abilities": [
+      "フラワーベール",
+      "きょうせい"
+    ],
+    "moves": []
+  },
+  "ゴロンダ": {
+    "number": "675",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 124,
+      "defense": 78,
+      "sp_attack": 69,
+      "sp_defense": 71,
+      "speed": 58
+    },
+    "abilities": [
+      "てつのこぶし",
+      "かたやぶり",
+      "きもったま"
+    ],
+    "moves": []
+  },
+  "トリミアン": {
+    "number": "676",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 60,
+      "sp_attack": 65,
+      "sp_defense": 90,
+      "speed": 102
+    },
+    "abilities": [
+      "ファーコート"
+    ],
+    "moves": []
+  },
+  "ニャオニクス♂": {
+    "number": "678",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "sp_attack": 83,
+      "sp_defense": 81,
+      "speed": 104
+    },
+    "abilities": [
+      "するどいめ",
+      "すりぬけ",
+      "いたずらごころ"
+    ],
+    "moves": [],
+    "mega": "メガニャオニクス♂"
+  },
+  "ニャオニクス♀": {
+    "number": "678",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "sp_attack": 83,
+      "sp_defense": 81,
+      "speed": 104
+    },
+    "abilities": [
+      "するどいめ",
+      "すりぬけ",
+      "かちき"
+    ],
+    "moves": [],
+    "mega": "メガニャオニクス♀"
+  },
+  "ギルガルド(シールド)": {
+    "number": "681",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 140,
+      "sp_attack": 50,
+      "sp_defense": 140,
+      "speed": 60
+    },
+    "abilities": [
+      "バトルスイッチ"
+    ],
+    "moves": []
+  },
+  "フレフワン": {
+    "number": "683",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 101,
+      "attack": 72,
+      "defense": 72,
+      "sp_attack": 99,
+      "sp_defense": 89,
+      "speed": 29
+    },
+    "abilities": [
+      "いやしのこころ",
+      "アロマベール"
+    ],
+    "moves": []
+  },
+  "ペロリーム": {
+    "number": "685",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 82,
+      "attack": 80,
+      "defense": 86,
+      "sp_attack": 85,
+      "sp_defense": 75,
+      "speed": 72
+    },
+    "abilities": [
+      "スイートベール",
+      "かるわざ"
+    ],
+    "moves": []
+  },
+  "カラマネロ": {
+    "number": "687",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 92,
+      "defense": 88,
+      "sp_attack": 68,
+      "sp_defense": 75,
+      "speed": 73
+    },
+    "abilities": [
+      "あまのじゃく",
+      "きゅうばん",
+      "すりぬけ"
+    ],
+    "moves": [],
+    "mega": "メガカラマネロ"
+  },
+  "ガメノデス": {
+    "number": "689",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 105,
+      "defense": 115,
+      "sp_attack": 54,
+      "sp_defense": 86,
+      "speed": 68
+    },
+    "abilities": [
+      "かたいツメ",
+      "スナイパー",
+      "わるいてぐせ"
+    ],
+    "moves": [],
+    "mega": "メガガメノデス"
+  },
+  "ドラミドロ": {
+    "number": "691",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 90,
+      "sp_attack": 97,
+      "sp_defense": 123,
+      "speed": 44
+    },
+    "abilities": [
+      "どくのトゲ",
+      "どくしゅ",
+      "てきおうりょく"
+    ],
+    "moves": [],
+    "mega": "メガドラミドロ"
+  },
+  "ブロスター": {
+    "number": "693",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 73,
+      "defense": 88,
+      "sp_attack": 120,
+      "sp_defense": 89,
+      "speed": 59
+    },
+    "abilities": [
+      "メガランチャー"
+    ],
+    "moves": []
+  },
+  "エレザード": {
+    "number": "695",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "stats": {
+      "hp": 62,
+      "attack": 55,
+      "defense": 52,
+      "sp_attack": 109,
+      "sp_defense": 94,
+      "speed": 109
+    },
+    "abilities": [
+      "かんそうはだ",
+      "すながくれ",
+      "サンパワー"
+    ],
+    "moves": []
+  },
+  "ガチゴラス": {
+    "number": "697",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 82,
+      "attack": 121,
+      "defense": 119,
+      "sp_attack": 69,
+      "sp_defense": 59,
+      "speed": 71
+    },
+    "abilities": [
+      "がんじょうあご",
+      "いしあたま"
+    ],
+    "moves": []
+  },
+  "アマルルガ": {
+    "number": "699",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 123,
+      "attack": 77,
+      "defense": 72,
+      "sp_attack": 99,
+      "sp_defense": 92,
+      "speed": 58
+    },
+    "abilities": [
+      "フリーズスキン",
+      "ゆきふらし"
+    ],
+    "moves": []
+  },
+  "ニンフィア": {
+    "number": "700",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 65,
+      "sp_attack": 110,
+      "sp_defense": 130,
+      "speed": 60
+    },
+    "abilities": [
+      "メロメロボディ",
+      "フェアリースキン"
+    ],
+    "moves": []
+  },
+  "ルチャブル": {
+    "number": "701",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 92,
+      "defense": 75,
+      "sp_attack": 74,
+      "sp_defense": 63,
+      "speed": 118
+    },
+    "abilities": [
+      "じゅうなん",
+      "かるわざ",
+      "かたやぶり"
+    ],
+    "moves": [],
+    "mega": "メガルチャブル"
+  },
+  "デデンネ": {
+    "number": "702",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 67,
+      "attack": 58,
+      "defense": 57,
+      "sp_attack": 81,
+      "sp_defense": 67,
+      "speed": 101
+    },
+    "abilities": [
+      "ほおぶくろ",
+      "ものひろい",
+      "プラス"
+    ],
+    "moves": []
+  },
+  "ヌメルゴン": {
+    "number": "706",
+    "types": [
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 70,
+      "sp_attack": 110,
+      "sp_defense": 150,
+      "speed": 80
+    },
+    "abilities": [
+      "そうしょく",
+      "うるおいボディ",
+      "ぬめぬめ"
+    ],
+    "moves": []
+  },
+  "クレッフィ": {
+    "number": "707",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 57,
+      "attack": 80,
+      "defense": 91,
+      "sp_attack": 80,
+      "sp_defense": 87,
+      "speed": 75
+    },
+    "abilities": [
+      "いたずらごころ",
+      "マジシャン"
+    ],
+    "moves": []
+  },
+  "オーロット": {
+    "number": "709",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 110,
+      "defense": 76,
+      "sp_attack": 65,
+      "sp_defense": 82,
+      "speed": 56
+    },
+    "abilities": [
+      "しぜんかいふく",
+      "おみとおし",
+      "しゅうかく"
+    ],
+    "moves": []
+  },
+  "パンプジン(普通)": {
+    "number": "711",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 122,
+      "sp_attack": 58,
+      "sp_defense": 75,
+      "speed": 84
+    },
+    "abilities": [
+      "ものひろい",
+      "おみとおし",
+      "ふみん"
+    ],
+    "moves": []
+  },
+  "パンプジン(小)": {
+    "number": "711",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 85,
+      "defense": 122,
+      "sp_attack": 58,
+      "sp_defense": 75,
+      "speed": 99
+    },
+    "abilities": [
+      "ものひろい",
+      "おみとおし",
+      "ふみん"
+    ],
+    "moves": []
+  },
+  "パンプジン(大)": {
+    "number": "711",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 122,
+      "sp_attack": 58,
+      "sp_defense": 75,
+      "speed": 69
+    },
+    "abilities": [
+      "ものひろい",
+      "おみとおし",
+      "ふみん"
+    ],
+    "moves": []
+  },
+  "パンプジン(特大)": {
+    "number": "711",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 100,
+      "defense": 122,
+      "sp_attack": 58,
+      "sp_defense": 75,
+      "speed": 54
+    },
+    "abilities": [
+      "ものひろい",
+      "おみとおし",
+      "ふみん"
+    ],
+    "moves": []
+  },
+  "クレベース": {
+    "number": "713",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 117,
+      "defense": 184,
+      "sp_attack": 44,
+      "sp_defense": 46,
+      "speed": 28
+    },
+    "abilities": [
+      "マイペース",
+      "アイスボディ",
+      "がんじょう"
+    ],
+    "moves": []
+  },
+  "オンバーン": {
+    "number": "715",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 70,
+      "defense": 80,
+      "sp_attack": 97,
+      "sp_defense": 80,
+      "speed": 123
+    },
+    "abilities": [
+      "おみとおし",
+      "すりぬけ",
+      "テレパシー"
+    ],
+    "moves": []
+  },
+  "ジュナイパー": {
+    "number": "724",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 107,
+      "defense": 75,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 70
+    },
+    "abilities": [
+      "しんりょく",
+      "えんかく"
+    ],
+    "moves": []
+  },
+  "ガオガエン": {
+    "number": "727",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 115,
+      "defense": 90,
+      "sp_attack": 80,
+      "sp_defense": 90,
+      "speed": 60
+    },
+    "abilities": [
+      "もうか",
+      "いかく"
+    ],
+    "moves": []
+  },
+  "アシレーヌ": {
+    "number": "730",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 74,
+      "defense": 74,
+      "sp_attack": 126,
+      "sp_defense": 116,
+      "speed": 60
+    },
+    "abilities": [
+      "げきりゅう",
+      "うるおいボイス"
+    ],
+    "moves": []
+  },
+  "ドデカバシ": {
+    "number": "733",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 75,
+      "sp_attack": 75,
+      "sp_defense": 75,
+      "speed": 60
+    },
+    "abilities": [
+      "するどいめ",
+      "スキルリンク",
+      "ちからずく"
+    ],
+    "moves": []
+  },
+  "ケケンカニ": {
+    "number": "740",
+    "types": [
+      "Fighting",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 97,
+      "attack": 132,
+      "defense": 77,
+      "sp_attack": 62,
+      "sp_defense": 67,
+      "speed": 43
+    },
+    "abilities": [
+      "かいりきバサミ",
+      "てつのこぶし",
+      "いかりのつぼ"
+    ],
+    "moves": [],
+    "mega": "メガケケンカニ"
+  },
+  "ルガルガン(まひる)": {
+    "number": "745",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 115,
+      "defense": 65,
+      "sp_attack": 55,
+      "sp_defense": 65,
+      "speed": 112
+    },
+    "abilities": [
+      "するどいめ",
+      "すなかき",
+      "ふくつのこころ"
+    ],
+    "moves": []
+  },
+  "ルガルガン(まよなか)": {
+    "number": "745",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 115,
+      "defense": 75,
+      "sp_attack": 55,
+      "sp_defense": 75,
+      "speed": 82
+    },
+    "abilities": [
+      "するどいめ",
+      "やるき",
+      "ノーガード"
+    ],
+    "moves": []
+  },
+  "ルガルガン(たそがれ)": {
+    "number": "745",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 117,
+      "defense": 65,
+      "sp_attack": 55,
+      "sp_defense": 65,
+      "speed": 110
+    },
+    "abilities": [
+      "かたいツメ"
+    ],
+    "moves": []
+  },
+  "ドヒドイデ": {
+    "number": "748",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 63,
+      "defense": 152,
+      "sp_attack": 53,
+      "sp_defense": 142,
+      "speed": 35
+    },
+    "abilities": [
+      "ひとでなし",
+      "じゅうなん",
+      "さいせいりょく"
+    ],
+    "moves": []
+  },
+  "バンバドロ": {
+    "number": "750",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 125,
+      "defense": 100,
+      "sp_attack": 55,
+      "sp_defense": 85,
+      "speed": 35
+    },
+    "abilities": [
+      "マイペース",
+      "じきゅうりょく",
+      "せいしんりょく"
+    ],
+    "moves": []
+  },
+  "オニシズクモ": {
+    "number": "752",
+    "types": [
+      "Water",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 70,
+      "defense": 92,
+      "sp_attack": 50,
+      "sp_defense": 132,
+      "speed": 42
+    },
+    "abilities": [
+      "すいほう",
+      "ちょすい"
+    ],
+    "moves": []
+  },
+  "エンニュート": {
+    "number": "758",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 64,
+      "defense": 60,
+      "sp_attack": 111,
+      "sp_defense": 60,
+      "speed": 117
+    },
+    "abilities": [
+      "ふしょく",
+      "どんかん"
+    ],
+    "moves": []
+  },
+  "アマージョ": {
+    "number": "763",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 120,
+      "defense": 98,
+      "sp_attack": 50,
+      "sp_defense": 98,
+      "speed": 72
+    },
+    "abilities": [
+      "リーフガード",
+      "じょおうのいげん",
+      "スイートベール"
+    ],
+    "moves": []
+  },
+  "ヤレユータン": {
+    "number": "765",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 80,
+      "sp_attack": 90,
+      "sp_defense": 110,
+      "speed": 60
+    },
+    "abilities": [
+      "せいしんりょく",
+      "テレパシー",
+      "きょうせい"
+    ],
+    "moves": []
+  },
+  "ナゲツケサル": {
+    "number": "766",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 120,
+      "defense": 90,
+      "sp_attack": 40,
+      "sp_defense": 60,
+      "speed": 80
+    },
+    "abilities": [
+      "レシーバー",
+      "まけんき"
+    ],
+    "moves": []
+  },
+  "ミミッキュ": {
+    "number": "778",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 90,
+      "defense": 80,
+      "sp_attack": 50,
+      "sp_defense": 105,
+      "speed": 96
+    },
+    "abilities": [
+      "ばけのかわ"
+    ],
+    "moves": []
+  },
+  "ジジーロン": {
+    "number": "780",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 60,
+      "defense": 85,
+      "sp_attack": 135,
+      "sp_defense": 91,
+      "speed": 36
+    },
+    "abilities": [
+      "ぎゃくじょう",
+      "そうしょく",
+      "ノーてんき"
+    ],
+    "moves": [],
+    "mega": "メガジジーロン"
+  },
+  "ジャラランガ": {
+    "number": "784",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 125,
+      "sp_attack": 100,
+      "sp_defense": 105,
+      "speed": 85
+    },
+    "abilities": [
+      "ぼうだん",
+      "ぼうおん",
+      "ぼうじん"
+    ],
+    "moves": []
+  },
+  "アーマーガア": {
+    "number": "823",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 98,
+      "attack": 87,
+      "defense": 105,
+      "sp_attack": 53,
+      "sp_defense": 85,
+      "speed": 67
+    },
+    "abilities": [
+      "プレッシャー",
+      "きんちょうかん",
+      "ミラーアーマー"
+    ],
+    "moves": []
+  },
+  "アップリュー": {
+    "number": "841",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 60,
+      "speed": 70
+    },
+    "abilities": [
+      "じゅくせい",
+      "くいしんぼう",
+      "はりきり"
+    ],
+    "moves": []
+  },
+  "タルップル": {
+    "number": "842",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 85,
+      "defense": 80,
+      "sp_attack": 100,
+      "sp_defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "じゅくせい",
+      "くいしんぼう",
+      "あついしぼう"
+    ],
+    "moves": []
+  },
+  "サダイジャ": {
+    "number": "844",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 107,
+      "defense": 125,
+      "sp_attack": 65,
+      "sp_defense": 70,
+      "speed": 71
+    },
+    "abilities": [
+      "すなはき",
+      "だっぴ",
+      "すながくれ"
+    ],
+    "moves": []
+  },
+  "ポットデス": {
+    "number": "855",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 65,
+      "sp_attack": 134,
+      "sp_defense": 114,
+      "speed": 70
+    },
+    "abilities": [
+      "くだけるよろい",
+      "のろわれボディ"
+    ],
+    "moves": []
+  },
+  "ブリムオン": {
+    "number": "858",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 57,
+      "attack": 90,
+      "defense": 95,
+      "sp_attack": 136,
+      "sp_defense": 103,
+      "speed": 29
+    },
+    "abilities": [
+      "いやしのこころ",
+      "きけんよち",
+      "マジックミラー"
+    ],
+    "moves": []
+  },
+  "オーロンゲ": {
+    "number": "861",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 120,
+      "defense": 65,
+      "sp_attack": 95,
+      "sp_defense": 75,
+      "speed": 60
+    },
+    "abilities": [
+      "いたずらごころ",
+      "おみとおし",
+      "わるいてぐせ"
+    ],
+    "moves": []
+  },
+  "バリコオル": {
+    "number": "866",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 75,
+      "sp_attack": 110,
+      "sp_defense": 100,
+      "speed": 70
+    },
+    "abilities": [
+      "ちどりあし",
+      "バリアフリー",
+      "アイスボディ"
+    ],
+    "moves": []
+  },
+  "デスバーン": {
+    "number": "867",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 95,
+      "defense": 145,
+      "sp_attack": 50,
+      "sp_defense": 105,
+      "speed": 30
+    },
+    "abilities": [
+      "さまようたましい"
+    ],
+    "moves": []
+  },
+  "マホイップ": {
+    "number": "869",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 75,
+      "sp_attack": 110,
+      "sp_defense": 121,
+      "speed": 64
+    },
+    "abilities": [
+      "スイートベール",
+      "アロマベール"
+    ],
+    "moves": []
+  },
+  "タイレーツ": {
+    "number": "870",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 100,
+      "sp_attack": 70,
+      "sp_defense": 60,
+      "speed": 75
+    },
+    "abilities": [
+      "カブトアーマー",
+      "まけんき"
+    ],
+    "moves": [],
+    "mega": "メガタイレーツ"
+  },
+  "モルペコ": {
+    "number": "877",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 95,
+      "defense": 58,
+      "sp_attack": 70,
+      "sp_defense": 58,
+      "speed": 97
+    },
+    "abilities": [
+      "はらぺこスイッチ"
+    ],
+    "moves": []
+  },
+  "ドラパルト": {
+    "number": "887",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 120,
+      "defense": 75,
+      "sp_attack": 100,
+      "sp_defense": 75,
+      "speed": 142
+    },
+    "abilities": [
+      "クリアボディ",
+      "すりぬけ",
+      "のろわれボディ"
+    ],
+    "moves": []
+  },
+  "アヤシシ": {
+    "number": "899",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 105,
+      "defense": 72,
+      "sp_attack": 105,
+      "sp_defense": 75,
+      "speed": 65
+    },
+    "abilities": [
+      "いかく",
+      "おみとおし",
+      "そうしょく"
+    ],
+    "moves": []
+  },
+  "バサギリ": {
+    "number": "900",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 135,
+      "defense": 95,
+      "sp_attack": 45,
+      "sp_defense": 70,
+      "speed": 85
+    },
+    "abilities": [
+      "むしのしらせ",
+      "ちからずく",
+      "きれあじ"
+    ],
+    "moves": []
+  },
+  "イダイトウ♂": {
+    "number": "902",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 112,
+      "defense": 65,
+      "sp_attack": 80,
+      "sp_defense": 75,
+      "speed": 78
+    },
+    "abilities": [
+      "すいすい",
+      "てきおうりょく",
+      "かたやぶり"
+    ],
+    "moves": []
+  },
+  "イダイトウ♀": {
+    "number": "902",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 92,
+      "defense": 65,
+      "sp_attack": 100,
+      "sp_defense": 75,
+      "speed": 78
+    },
+    "abilities": [
+      "すいすい",
+      "てきおうりょく",
+      "かたやぶり"
+    ],
+    "moves": []
+  },
+  "オオニューラ": {
+    "number": "903",
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 130,
+      "defense": 60,
+      "sp_attack": 40,
+      "sp_defense": 80,
+      "speed": 120
+    },
+    "abilities": [
+      "プレッシャー",
+      "かるわざ",
+      "どくしゅ"
+    ],
+    "moves": []
+  },
+  "ハリーマン": {
+    "number": "904",
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 115,
+      "defense": 95,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 85
+    },
+    "abilities": [
+      "どくのトゲ",
+      "すいすい",
+      "いかく"
+    ],
+    "moves": []
+  },
+  "マスカーニャ": {
+    "number": "908",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 110,
+      "defense": 70,
+      "sp_attack": 81,
+      "sp_defense": 70,
+      "speed": 123
+    },
+    "abilities": [
+      "しんりょく",
+      "へんげんじざい"
+    ],
+    "moves": []
+  },
+  "ラウドボーン": {
+    "number": "911",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 104,
+      "attack": 75,
+      "defense": 100,
+      "sp_attack": 110,
+      "sp_defense": 75,
+      "speed": 66
+    },
+    "abilities": [
+      "もうか",
+      "てんねん"
+    ],
+    "moves": []
+  },
+  "ウェーニバル": {
+    "number": "914",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 120,
+      "defense": 80,
+      "sp_attack": 85,
+      "sp_defense": 75,
+      "speed": 85
+    },
+    "abilities": [
+      "げきりゅう",
+      "じしんかじょう"
+    ],
+    "moves": []
+  },
+  "イッカネズミ": {
+    "number": "925",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 75,
+      "defense": 70,
+      "sp_attack": 65,
+      "sp_defense": 75,
+      "speed": 111
+    },
+    "abilities": [
+      "フレンドガード",
+      "ほおぶくろ",
+      "テクニシャン"
+    ],
+    "moves": []
+  },
+  "キョジオーン": {
+    "number": "934",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 130,
+      "sp_attack": 45,
+      "sp_defense": 90,
+      "speed": 35
+    },
+    "abilities": [
+      "きよめのしお",
+      "がんじょう",
+      "クリアボディ"
+    ],
+    "moves": []
+  },
+  "グレンアルマ": {
+    "number": "936",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 60,
+      "defense": 100,
+      "sp_attack": 125,
+      "sp_defense": 80,
+      "speed": 75
+    },
+    "abilities": [
+      "もらいび",
+      "くだけるよろい"
+    ],
+    "moves": []
+  },
+  "ソウブレイズ": {
+    "number": "937",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 80,
+      "sp_attack": 60,
+      "sp_defense": 100,
+      "speed": 85
+    },
+    "abilities": [
+      "もらいび",
+      "くだけるよろい"
+    ],
+    "moves": []
+  },
+  "ハラバリー": {
+    "number": "939",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 109,
+      "attack": 64,
+      "defense": 91,
+      "sp_attack": 103,
+      "sp_defense": 83,
+      "speed": 45
+    },
+    "abilities": [
+      "でんきにかえる",
+      "せいでんき",
+      "しめりけ"
+    ],
+    "moves": []
+  },
+  "スコヴィラン": {
+    "number": "952",
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 108,
+      "defense": 65,
+      "sp_attack": 108,
+      "sp_defense": 65,
+      "speed": 75
+    },
+    "abilities": [
+      "ようりょくそ",
+      "ふみん",
+      "ムラっけ"
+    ],
+    "moves": [],
+    "mega": "メガスコヴィラン"
+  },
+  "クエスパトラ": {
+    "number": "956",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 60,
+      "defense": 60,
+      "sp_attack": 101,
+      "sp_defense": 60,
+      "speed": 105
+    },
+    "abilities": [
+      "びんじょう",
+      "おみとおし",
+      "かそく"
+    ],
+    "moves": []
+  },
+  "デカヌチャン": {
+    "number": "959",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 75,
+      "defense": 77,
+      "sp_attack": 70,
+      "sp_defense": 105,
+      "speed": 94
+    },
+    "abilities": [
+      "かたやぶり",
+      "マイペース",
+      "わるいてぐせ"
+    ],
+    "moves": []
+  },
+  "イルカマン(ナイーブ)": {
+    "number": "964",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 70,
+      "defense": 72,
+      "sp_attack": 53,
+      "sp_defense": 62,
+      "speed": 100
+    },
+    "abilities": [
+      "マイティチェンジ"
+    ],
+    "moves": []
+  },
+  "イルカマン(マイティ)": {
+    "number": "964",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 160,
+      "defense": 97,
+      "sp_attack": 106,
+      "sp_defense": 87,
+      "speed": 100
+    },
+    "abilities": [
+      "マイティチェンジ"
+    ],
+    "moves": []
+  },
+  "ミミズズ": {
+    "number": "968",
+    "types": [
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 145,
+      "sp_attack": 60,
+      "sp_defense": 55,
+      "speed": 65
+    },
+    "abilities": [
+      "どしょく",
+      "すながくれ"
+    ],
+    "moves": []
+  },
+  "キラフロル": {
+    "number": "970",
+    "types": [
+      "Rock",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 55,
+      "defense": 90,
+      "sp_attack": 130,
+      "sp_defense": 81,
+      "speed": 86
+    },
+    "abilities": [
+      "どくげしょう",
+      "ふしょく"
+    ],
+    "moves": [],
+    "mega": "メガキラフロル"
+  },
+  "ハカドッグ": {
+    "number": "972",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 101,
+      "defense": 100,
+      "sp_attack": 50,
+      "sp_defense": 97,
+      "speed": 68
+    },
+    "abilities": [
+      "すなかき",
+      "もふもふ"
+    ],
+    "moves": []
+  },
+  "コノヨザル": {
+    "number": "979",
+    "types": [
+      "Fighting",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 115,
+      "defense": 80,
+      "sp_attack": 50,
+      "sp_defense": 90,
+      "speed": 90
+    },
+    "abilities": [
+      "やるき",
+      "せいしんりょく",
+      "まけんき"
+    ],
+    "moves": []
+  },
+  "リキキリン": {
+    "number": "981",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 90,
+      "defense": 70,
+      "sp_attack": 110,
+      "sp_defense": 70,
+      "speed": 60
+    },
+    "abilities": [
+      "はんすう",
+      "テイルアーマー",
+      "そうしょく"
+    ],
+    "moves": []
+  },
+  "ドドゲザン": {
+    "number": "983",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 120,
+      "sp_attack": 60,
+      "sp_defense": 85,
+      "speed": 50
+    },
+    "abilities": [
+      "まけんき",
+      "そうだいしょう",
+      "プレッシャー",
+      "1000:",
+      "サーフゴー",
+      "はがねタイプゴーストタイプ",
+      "87-60-95-133-91-84",
+      "おうごんのからだ",
+      "1013:",
+      "ヤバソチャ",
+      "くさタイプゴーストタイプ",
+      "71-60-106-121-80-70",
+      "おもてなし",
+      "たいねつ",
+      "1018:",
+      "ブリジュラス",
+      "はがねタイプドラゴンタイプ",
+      "90-105-130-125-65-85",
+      "じきゅうりょく",
+      "がんじょう",
+      "すじがねいり",
+      "1019:",
+      "カミツオロチ",
+      "くさタイプドラゴンタイプ",
+      "106-80-110-120-80-44",
+      "かんろなミツ",
+      "さいせいりょく",
+      "ねんちゃく"
+    ],
+    "moves": []
+  },
+  "メガフシギバナ": {
+    "number": "003",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 123,
+      "sp_attack": 122,
+      "sp_defense": 120,
+      "speed": 80
+    },
+    "abilities": [
+      "あついしぼう"
+    ],
+    "moves": [],
+    "base_form": "フシギバナ"
+  },
+  "メガリザードンX": {
+    "number": "006",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 130,
+      "defense": 111,
+      "sp_attack": 130,
+      "sp_defense": 85,
+      "speed": 100
+    },
+    "abilities": [
+      "かたいツメ"
+    ],
+    "moves": [],
+    "base_form": "リザードン"
+  },
+  "メガリザードンY": {
+    "number": "006",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 104,
+      "defense": 78,
+      "sp_attack": 159,
+      "sp_defense": 115,
+      "speed": 100
+    },
+    "abilities": [
+      "ひでり"
+    ],
+    "moves": [],
+    "base_form": "リザードン"
+  },
+  "メガカメックス": {
+    "number": "009",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 103,
+      "defense": 120,
+      "sp_attack": 135,
+      "sp_defense": 115,
+      "speed": 78
+    },
+    "abilities": [
+      "メガランチャー"
+    ],
+    "moves": [],
+    "base_form": "カメックス"
+  },
+  "メガスピアー": {
+    "number": "015",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 150,
+      "defense": 40,
+      "sp_attack": 15,
+      "sp_defense": 80,
+      "speed": 145
+    },
+    "abilities": [
+      "てきおうりょく"
+    ],
+    "moves": [],
+    "base_form": "スピアー"
+  },
+  "メガピジョット": {
+    "number": "018",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 80,
+      "sp_attack": 135,
+      "sp_defense": 80,
+      "speed": 121
+    },
+    "abilities": [
+      "ノーガード"
+    ],
+    "moves": [],
+    "base_form": "ピジョット"
+  },
+  "ライチュウ(アローラ)": {
+    "number": "026",
+    "types": [
+      "Electric",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 50,
+      "sp_attack": 95,
+      "sp_defense": 85,
+      "speed": 110
+    },
+    "abilities": [
+      "サーフテール"
+    ],
+    "moves": []
+  },
+  "メガライチュウX": {
+    "number": "026",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 135,
+      "defense": 95,
+      "sp_attack": 90,
+      "sp_defense": 95,
+      "speed": 110
+    },
+    "abilities": [
+      "エレキメイカー"
+    ],
+    "moves": [],
+    "base_form": "ライチュウ"
+  },
+  "メガライチュウY": {
+    "number": "026",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 55,
+      "sp_attack": 160,
+      "sp_defense": 80,
+      "speed": 130
+    },
+    "abilities": [
+      "ノーガード"
+    ],
+    "moves": [],
+    "base_form": "ライチュウ"
+  },
+  "メガピクシー": {
+    "number": "036",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 80,
+      "defense": 93,
+      "sp_attack": 135,
+      "sp_defense": 110,
+      "speed": 70
+    },
+    "abilities": [
+      "マジックミラー"
+    ],
+    "moves": [],
+    "base_form": "ピクシー"
+  },
+  "キュウコン(アローラ)": {
+    "number": "038",
+    "types": [
+      "Ice",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 67,
+      "defense": 75,
+      "sp_attack": 81,
+      "sp_defense": 100,
+      "speed": 109
+    },
+    "abilities": [
+      "ゆきがくれ",
+      "ゆきふらし"
+    ],
+    "moves": []
+  },
+  "ウインディ(ヒスイ)": {
+    "number": "059",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 115,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 80,
+      "speed": 90
+    },
+    "abilities": [
+      "いかく",
+      "もらいび",
+      "いしあたま"
+    ],
+    "moves": []
+  },
+  "メガフーディン": {
+    "number": "065",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 65,
+      "sp_attack": 175,
+      "sp_defense": 105,
+      "speed": 150
+    },
+    "abilities": [
+      "トレース"
+    ],
+    "moves": [],
+    "base_form": "フーディン"
+  },
+  "メガウツボット": {
+    "number": "071",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 85,
+      "sp_attack": 135,
+      "sp_defense": 95,
+      "speed": 70
+    },
+    "abilities": [
+      "とびだすなかみ"
+    ],
+    "moves": [],
+    "base_form": "ウツボット"
+  },
+  "メガヤドラン": {
+    "number": "080",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 180,
+      "sp_attack": 130,
+      "sp_defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "シェルアーマー"
+    ],
+    "moves": [],
+    "base_form": "ヤドラン"
+  },
+  "ヤドラン(ガラル)": {
+    "number": "080",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100,
+      "defense": 95,
+      "sp_attack": 100,
+      "sp_defense": 70,
+      "speed": 30
+    },
+    "abilities": [
+      "クイックドロウ",
+      "マイペース",
+      "さいせいりょく"
+    ],
+    "moves": []
+  },
+  "メガゲンガー": {
+    "number": "094",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 80,
+      "sp_attack": 170,
+      "sp_defense": 95,
+      "speed": 130
+    },
+    "abilities": [
+      "かげふみ"
+    ],
+    "moves": [],
+    "base_form": "ゲンガー"
+  },
+  "メガガルーラ": {
+    "number": "115",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 125,
+      "defense": 100,
+      "sp_attack": 60,
+      "sp_defense": 100,
+      "speed": 100
+    },
+    "abilities": [
+      "おやこあい"
+    ],
+    "moves": [],
+    "base_form": "ガルーラ"
+  },
+  "メガスターミー": {
+    "number": "121",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 105,
+      "sp_attack": 130,
+      "sp_defense": 105,
+      "speed": 120
+    },
+    "abilities": [
+      "ちからもち"
+    ],
+    "moves": [],
+    "base_form": "スターミー"
+  },
+  "メガカイロス": {
+    "number": "127",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 155,
+      "defense": 120,
+      "sp_attack": 65,
+      "sp_defense": 90,
+      "speed": 105
+    },
+    "abilities": [
+      "スカイスキン"
+    ],
+    "moves": [],
+    "base_form": "カイロス"
+  },
+  "ケンタロス(パルデア単)": {
+    "number": "128",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "sp_attack": 30,
+      "sp_defense": 70,
+      "speed": 100
+    },
+    "abilities": [
+      "いかく",
+      "いかりのつぼ",
+      "はんすう"
+    ],
+    "moves": []
+  },
+  "ケンタロス(パルデア炎)": {
+    "number": "128",
+    "types": [
+      "Fighting",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "sp_attack": 30,
+      "sp_defense": 70,
+      "speed": 100
+    },
+    "abilities": [
+      "いかく",
+      "いかりのつぼ",
+      "はんすう"
+    ],
+    "moves": []
+  },
+  "ケンタロス(パルデア水)": {
+    "number": "128",
+    "types": [
+      "Fighting",
+      "Water"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "sp_attack": 30,
+      "sp_defense": 70,
+      "speed": 100
+    },
+    "abilities": [
+      "いかく",
+      "いかりのつぼ",
+      "はんすう"
+    ],
+    "moves": []
+  },
+  "メガギャラドス": {
+    "number": "130",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 155,
+      "defense": 109,
+      "sp_attack": 70,
+      "sp_defense": 130,
+      "speed": 81
+    },
+    "abilities": [
+      "かたやぶり"
+    ],
+    "moves": [],
+    "base_form": "ギャラドス"
+  },
+  "メガプテラ": {
+    "number": "142",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 135,
+      "defense": 85,
+      "sp_attack": 70,
+      "sp_defense": 95,
+      "speed": 150
+    },
+    "abilities": [
+      "かたいツメ"
+    ],
+    "moves": [],
+    "base_form": "プテラ"
+  },
+  "メガカイリュー": {
+    "number": "149",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 124,
+      "defense": 115,
+      "sp_attack": 145,
+      "sp_defense": 125,
+      "speed": 100
+    },
+    "abilities": [
+      "マルチスケイル"
+    ],
+    "moves": [],
+    "base_form": "カイリュー"
+  },
+  "メガニウム": {
+    "number": "154",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 100,
+      "sp_attack": 83,
+      "sp_defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "しんりょく",
+      "リーフガード"
+    ],
+    "moves": []
+  },
+  "メガメガニウム": {
+    "number": "154",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 115,
+      "sp_attack": 143,
+      "sp_defense": 115,
+      "speed": 80
+    },
+    "abilities": [
+      "メガソーラー"
+    ],
+    "moves": []
+  },
+  "バクフーン(ヒスイ)": {
+    "number": "157",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 84,
+      "defense": 78,
+      "sp_attack": 119,
+      "sp_defense": 85,
+      "speed": 95
+    },
+    "abilities": [
+      "もうか",
+      "おみとおし"
+    ],
+    "moves": []
+  },
+  "メガオーダイル": {
+    "number": "160",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 160,
+      "defense": 125,
+      "sp_attack": 89,
+      "sp_defense": 93,
+      "speed": 78
+    },
+    "abilities": [
+      "ドラゴンスキン"
+    ],
+    "moves": [],
+    "base_form": "オーダイル"
+  },
+  "メガデンリュウ": {
+    "number": "181",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 105,
+      "sp_attack": 165,
+      "sp_defense": 110,
+      "speed": 45
+    },
+    "abilities": [
+      "かたやぶり"
+    ],
+    "moves": [],
+    "base_form": "デンリュウ"
+  },
+  "ヤドキング(ガラル)": {
+    "number": "199",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 80,
+      "sp_attack": 110,
+      "sp_defense": 110,
+      "speed": 30
+    },
+    "abilities": [
+      "きみょうなくすり",
+      "マイペース",
+      "さいせいりょく"
+    ],
+    "moves": []
+  },
+  "メガハガネール": {
+    "number": "208",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 230,
+      "sp_attack": 55,
+      "sp_defense": 95,
+      "speed": 30
+    },
+    "abilities": [
+      "すなのちから"
+    ],
+    "moves": [],
+    "base_form": "ハガネール"
+  },
+  "メガハッサム": {
+    "number": "212",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 150,
+      "defense": 140,
+      "sp_attack": 65,
+      "sp_defense": 100,
+      "speed": 75
+    },
+    "abilities": [
+      "テクニシャン"
+    ],
+    "moves": [],
+    "base_form": "ハッサム"
+  },
+  "メガヘラクロス": {
+    "number": "214",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 185,
+      "defense": 115,
+      "sp_attack": 40,
+      "sp_defense": 105,
+      "speed": 75
+    },
+    "abilities": [
+      "スキルリンク"
+    ],
+    "moves": [],
+    "base_form": "ヘラクロス"
+  },
+  "メガエアームド": {
+    "number": "227",
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 140,
+      "defense": 110,
+      "sp_attack": 40,
+      "sp_defense": 100,
+      "speed": 110
+    },
+    "abilities": [
+      "すじがねいり"
+    ],
+    "moves": [],
+    "base_form": "エアームド"
+  },
+  "メガヘルガー": {
+    "number": "229",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 90,
+      "sp_attack": 140,
+      "sp_defense": 90,
+      "speed": 115
+    },
+    "abilities": [
+      "サンパワー"
+    ],
+    "moves": [],
+    "base_form": "ヘルガー"
+  },
+  "メガバンギラス": {
+    "number": "248",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 164,
+      "defense": 150,
+      "sp_attack": 95,
+      "sp_defense": 120,
+      "speed": 71
+    },
+    "abilities": [
+      "すなおこし"
+    ],
+    "moves": [],
+    "base_form": "バンギラス"
+  },
+  "メガジュカイン": {
+    "number": "254",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 75,
+      "sp_attack": 145,
+      "sp_defense": 85,
+      "speed": 145
+    },
+    "abilities": [
+      "ひらいしん"
+    ],
+    "moves": [],
+    "base_form": "ジュカイン"
+  },
+  "メガバシャーモ": {
+    "number": "257",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 160,
+      "defense": 80,
+      "sp_attack": 130,
+      "sp_defense": 80,
+      "speed": 100
+    },
+    "abilities": [
+      "かそく"
+    ],
+    "moves": [],
+    "base_form": "バシャーモ"
+  },
+  "メガラグラージ": {
+    "number": "260",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150,
+      "defense": 110,
+      "sp_attack": 95,
+      "sp_defense": 110,
+      "speed": 70
+    },
+    "abilities": [
+      "すいすい"
+    ],
+    "moves": [],
+    "base_form": "ラグラージ"
+  },
+  "メガサーナイト": {
+    "number": "282",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 85,
+      "defense": 65,
+      "sp_attack": 165,
+      "sp_defense": 135,
+      "speed": 100
+    },
+    "abilities": [
+      "フェアリースキン"
+    ],
+    "moves": [],
+    "base_form": "サーナイト"
+  },
+  "メガヤミラミ": {
+    "number": "302",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 125,
+      "sp_attack": 85,
+      "sp_defense": 115,
+      "speed": 20
+    },
+    "abilities": [
+      "マジックミラー"
+    ],
+    "moves": [],
+    "base_form": "ヤミラミ"
+  },
+  "メガクチート": {
+    "number": "303",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 125,
+      "sp_attack": 55,
+      "sp_defense": 95,
+      "speed": 50
+    },
+    "abilities": [
+      "ちからもち"
+    ],
+    "moves": [],
+    "base_form": "クチート"
+  },
+  "メガボスゴドラ": {
+    "number": "306",
+    "types": [
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 230,
+      "sp_attack": 60,
+      "sp_defense": 80,
+      "speed": 50
+    },
+    "abilities": [
+      "フィルター"
+    ],
+    "moves": [],
+    "base_form": "ボスゴドラ"
+  },
+  "メガチャーレム": {
+    "number": "308",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 85,
+      "sp_attack": 80,
+      "sp_defense": 85,
+      "speed": 100
+    },
+    "abilities": [
+      "ヨガパワー"
+    ],
+    "moves": [],
+    "base_form": "チャーレム"
+  },
+  "メガライボルト": {
+    "number": "310",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 80,
+      "sp_attack": 135,
+      "sp_defense": 80,
+      "speed": 135
+    },
+    "abilities": [
+      "いかく"
+    ],
+    "moves": [],
+    "base_form": "ライボルト"
+  },
+  "メガサメハダー": {
+    "number": "319",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 70,
+      "sp_attack": 110,
+      "sp_defense": 65,
+      "speed": 105
+    },
+    "abilities": [
+      "がんじょうあご"
+    ],
+    "moves": [],
+    "base_form": "サメハダー"
+  },
+  "メガバクーダ": {
+    "number": "323",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 100,
+      "sp_attack": 145,
+      "sp_defense": 105,
+      "speed": 20
+    },
+    "abilities": [
+      "ちからずく"
+    ],
+    "moves": [],
+    "base_form": "バクーダ"
+  },
+  "メガチルタリス": {
+    "number": "334",
+    "types": [
+      "Dragon",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 110,
+      "sp_attack": 110,
+      "sp_defense": 105,
+      "speed": 80
+    },
+    "abilities": [
+      "フェアリースキン"
+    ],
+    "moves": [],
+    "base_form": "チルタリス"
+  },
+  "メガジュペッタ": {
+    "number": "354",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 165,
+      "defense": 75,
+      "sp_attack": 93,
+      "sp_defense": 83,
+      "speed": 75
+    },
+    "abilities": [
+      "いたずらごころ"
+    ],
+    "moves": [],
+    "base_form": "ジュペッタ"
+  },
+  "メガチリーン": {
+    "number": "358",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 50,
+      "defense": 110,
+      "sp_attack": 135,
+      "sp_defense": 120,
+      "speed": 65
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": [],
+    "base_form": "チリーン"
+  },
+  "メガアブソル": {
+    "number": "359",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 150,
+      "defense": 60,
+      "sp_attack": 115,
+      "sp_defense": 60,
+      "speed": 115
+    },
+    "abilities": [
+      "マジックミラー"
+    ],
+    "moves": [],
+    "base_form": "アブソル"
+  },
+  "メガオニゴーリ": {
+    "number": "362",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 80,
+      "sp_attack": 120,
+      "sp_defense": 80,
+      "speed": 100
+    },
+    "abilities": [
+      "フリーズスキン"
+    ],
+    "moves": [],
+    "base_form": "オニゴーリ"
+  },
+  "メガメタグロス": {
+    "number": "376",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 145,
+      "defense": 150,
+      "sp_attack": 105,
+      "sp_defense": 110,
+      "speed": 110
+    },
+    "abilities": [
+      "かたいツメ"
+    ],
+    "moves": [],
+    "base_form": "メタグロス"
+  },
+  "メガムクホーク": {
+    "number": "398",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 140,
+      "defense": 100,
+      "sp_attack": 60,
+      "sp_defense": 90,
+      "speed": 110
+    },
+    "abilities": [
+      "あまのじゃく"
+    ],
+    "moves": [],
+    "base_form": "ムクホーク"
+  },
+  "メガミミロップ": {
+    "number": "428",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 136,
+      "defense": 94,
+      "sp_attack": 54,
+      "sp_defense": 96,
+      "speed": 135
+    },
+    "abilities": [
+      "きもったま"
+    ],
+    "moves": [],
+    "base_form": "ミミロップ"
+  },
+  "メガガブリアス": {
+    "number": "445",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 170,
+      "defense": 115,
+      "sp_attack": 120,
+      "sp_defense": 95,
+      "speed": 92
+    },
+    "abilities": [
+      "すなのちから"
+    ],
+    "moves": [],
+    "base_form": "ガブリアス"
+  },
+  "メガルカリオ": {
+    "number": "448",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 145,
+      "defense": 88,
+      "sp_attack": 140,
+      "sp_defense": 70,
+      "speed": 112
+    },
+    "abilities": [
+      "てきおうりょく"
+    ],
+    "moves": [],
+    "base_form": "ルカリオ"
+  },
+  "メガユキノオー": {
+    "number": "460",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 132,
+      "defense": 105,
+      "sp_attack": 132,
+      "sp_defense": 105,
+      "speed": 30
+    },
+    "abilities": [
+      "ゆきふらし"
+    ],
+    "moves": [],
+    "base_form": "ユキノオー"
+  },
+  "メガエルレイド": {
+    "number": "475",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 165,
+      "defense": 95,
+      "sp_attack": 65,
+      "sp_defense": 115,
+      "speed": 110
+    },
+    "abilities": [
+      "せいしんりょく"
+    ],
+    "moves": [],
+    "base_form": "エルレイド"
+  },
+  "メガユキメノコ": {
+    "number": "478",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 70,
+      "sp_attack": 140,
+      "sp_defense": 100,
+      "speed": 120
+    },
+    "abilities": [
+      "ゆきふらし"
+    ],
+    "moves": [],
+    "base_form": "ユキメノコ"
+  },
+  "メガエンブオー": {
+    "number": "500",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 148,
+      "defense": 75,
+      "sp_attack": 110,
+      "sp_defense": 110,
+      "speed": 75
+    },
+    "abilities": [
+      "かたやぶり"
+    ],
+    "moves": [],
+    "base_form": "エンブオー"
+  },
+  "ダイケンキ(ヒスイ)": {
+    "number": "503",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 108,
+      "defense": 80,
+      "sp_attack": 100,
+      "sp_defense": 65,
+      "speed": 85
+    },
+    "abilities": [
+      "げきりゅう",
+      "きれあじ"
+    ],
+    "moves": []
+  },
+  "メガドリュウズ": {
+    "number": "530",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 165,
+      "defense": 100,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 103
+    },
+    "abilities": [
+      "かんつうドリル"
+    ],
+    "moves": [],
+    "base_form": "ドリュウズ"
+  },
+  "メガタブンネ": {
+    "number": "531",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 126,
+      "sp_attack": 80,
+      "sp_defense": 126,
+      "speed": 50
+    },
+    "abilities": [
+      "いやしのこころ"
+    ],
+    "moves": [],
+    "base_form": "タブンネ"
+  },
+  "メガペンドラー": {
+    "number": "545",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 140,
+      "defense": 149,
+      "sp_attack": 75,
+      "sp_defense": 99,
+      "speed": 62
+    },
+    "abilities": [
+      "シェルアーマー"
+    ],
+    "moves": [],
+    "base_form": "ペンドラー"
+  },
+  "メガズルズキン": {
+    "number": "560",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 135,
+      "sp_attack": 55,
+      "sp_defense": 135,
+      "speed": 68
+    },
+    "abilities": [
+      "いかく"
+    ],
+    "moves": [],
+    "base_form": "ズルズキン"
+  },
+  "ゾロアーク(ヒスイ)": {
+    "number": "571",
+    "types": [
+      "Normal",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 100,
+      "defense": 60,
+      "sp_attack": 125,
+      "sp_defense": 60,
+      "speed": 110
+    },
+    "abilities": [
+      "イリュージョン"
+    ],
+    "moves": []
+  },
+  "メガシビルドン": {
+    "number": "604",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 145,
+      "defense": 80,
+      "sp_attack": 135,
+      "sp_defense": 90,
+      "speed": 80
+    },
+    "abilities": [
+      "うなぎのぼり"
+    ],
+    "moves": [],
+    "base_form": "シビルドン"
+  },
+  "メガシャンデラ": {
+    "number": "609",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 110,
+      "sp_attack": 175,
+      "sp_defense": 110,
+      "speed": 90
+    },
+    "abilities": [
+      "すりぬけ"
+    ],
+    "moves": [],
+    "base_form": "シャンデラ"
+  },
+  "マッギョ(ガラル)": {
+    "number": "618",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 109,
+      "attack": 81,
+      "defense": 99,
+      "sp_attack": 66,
+      "sp_defense": 84,
+      "speed": 32
+    },
+    "abilities": [
+      "ぎたい"
+    ],
+    "moves": []
+  },
+  "メガゴルーグ": {
+    "number": "623",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 89,
+      "attack": 159,
+      "defense": 105,
+      "sp_attack": 70,
+      "sp_defense": 105,
+      "speed": 55
+    },
+    "abilities": [
+      "ふかしのこぶし"
+    ],
+    "moves": [],
+    "base_form": "ゴルーグ"
+  },
+  "メガブリガロン": {
+    "number": "652",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 137,
+      "defense": 172,
+      "sp_attack": 74,
+      "sp_defense": 115,
+      "speed": 44
+    },
+    "abilities": [
+      "ぼうだん"
+    ],
+    "moves": [],
+    "base_form": "ブリガロン"
+  },
+  "メガマフォクシー": {
+    "number": "655",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 69,
+      "defense": 72,
+      "sp_attack": 159,
+      "sp_defense": 125,
+      "speed": 134
+    },
+    "abilities": [
+      "ふゆう"
+    ],
+    "moves": [],
+    "base_form": "マフォクシー"
+  },
+  "メガゲッコウガ": {
+    "number": "658",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 125,
+      "defense": 77,
+      "sp_attack": 133,
+      "sp_defense": 81,
+      "speed": 142
+    },
+    "abilities": [
+      "へんげんじざい"
+    ],
+    "moves": [],
+    "base_form": "ゲッコウガ"
+  },
+  "メガカエンジシ": {
+    "number": "668",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 88,
+      "defense": 92,
+      "sp_attack": 129,
+      "sp_defense": 86,
+      "speed": 126
+    },
+    "abilities": [
+      "ほのおのたてがみ"
+    ],
+    "moves": [],
+    "base_form": "カエンジシ"
+  },
+  "メガフラエッテ": {
+    "number": "670",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 85,
+      "defense": 87,
+      "sp_attack": 155,
+      "sp_defense": 148,
+      "speed": 102
+    },
+    "abilities": [
+      "フェアリーオーラ"
+    ],
+    "moves": []
+  },
+  "メガニャオニクス♂": {
+    "number": "678",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "sp_attack": 143,
+      "sp_defense": 101,
+      "speed": 124
+    },
+    "abilities": [
+      "トレース"
+    ],
+    "moves": [],
+    "base_form": "ニャオニクス♂"
+  },
+  "メガニャオニクス♀": {
+    "number": "678",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "sp_attack": 143,
+      "sp_defense": 101,
+      "speed": 124
+    },
+    "abilities": [
+      "トレース"
+    ],
+    "moves": [],
+    "base_form": "ニャオニクス♀"
+  },
+  "ギルガルド(ブレード)": {
+    "number": "681",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 140,
+      "defense": 50,
+      "sp_attack": 140,
+      "sp_defense": 50,
+      "speed": 60
+    },
+    "abilities": [
+      "バトルスイッチ"
+    ],
+    "moves": []
+  },
+  "メガカラマネロ": {
+    "number": "687",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 102,
+      "defense": 88,
+      "sp_attack": 98,
+      "sp_defense": 120,
+      "speed": 88
+    },
+    "abilities": [
+      "あまのじゃく"
+    ],
+    "moves": [],
+    "base_form": "カラマネロ"
+  },
+  "メガガメノデス": {
+    "number": "689",
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 140,
+      "defense": 130,
+      "sp_attack": 64,
+      "sp_defense": 106,
+      "speed": 88
+    },
+    "abilities": [
+      "かたいツメ"
+    ],
+    "moves": [],
+    "base_form": "ガメノデス"
+  },
+  "メガドラミドロ": {
+    "number": "691",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 85,
+      "defense": 105,
+      "sp_attack": 132,
+      "sp_defense": 163,
+      "speed": 44
+    },
+    "abilities": [
+      "さいせいりょく"
+    ],
+    "moves": [],
+    "base_form": "ドラミドロ"
+  },
+  "メガルチャブル": {
+    "number": "701",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 137,
+      "defense": 100,
+      "sp_attack": 74,
+      "sp_defense": 93,
+      "speed": 118
+    },
+    "abilities": [
+      "ノーガード"
+    ],
+    "moves": [],
+    "base_form": "ルチャブル"
+  },
+  "ヌメルゴン(ヒスイ)": {
+    "number": "706",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 100,
+      "sp_attack": 110,
+      "sp_defense": 150,
+      "speed": 60
+    },
+    "abilities": [
+      "そうしょく",
+      "シェルアーマー",
+      "ぬめぬめ"
+    ],
+    "moves": []
+  },
+  "クレベース(ヒスイ)": {
+    "number": "713",
+    "types": [
+      "Ice",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 127,
+      "defense": 184,
+      "sp_attack": 34,
+      "sp_defense": 36,
+      "speed": 38
+    },
+    "abilities": [
+      "がんじょうあご",
+      "アイスボディ",
+      "がんじょう"
+    ],
+    "moves": []
+  },
+  "ジュナイパー(ヒスイ)": {
+    "number": "724",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 112,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 95,
+      "speed": 60
+    },
+    "abilities": [
+      "しんりょく",
+      "きもったま"
+    ],
+    "moves": []
+  },
+  "メガケケンカニ": {
+    "number": "740",
+    "types": [
+      "Fighting",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 97,
+      "attack": 157,
+      "defense": 122,
+      "sp_attack": 62,
+      "sp_defense": 107,
+      "speed": 33
+    },
+    "abilities": [
+      "てつのこぶし"
+    ],
+    "moves": [],
+    "base_form": "ケケンカニ"
+  },
+  "メガジジーロン": {
+    "number": "780",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 85,
+      "defense": 110,
+      "sp_attack": 160,
+      "sp_defense": 116,
+      "speed": 36
+    },
+    "abilities": [
+      "ぎゃくじょう"
+    ],
+    "moves": [],
+    "base_form": "ジジーロン"
+  },
+  "メガタイレーツ": {
+    "number": "870",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 135,
+      "defense": 135,
+      "sp_attack": 70,
+      "sp_defense": 65,
+      "speed": 100
+    },
+    "abilities": [
+      "まけんき"
+    ],
+    "moves": [],
+    "base_form": "タイレーツ"
+  },
+  "メガスコヴィラン": {
+    "number": "952",
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 138,
+      "defense": 85,
+      "sp_attack": 138,
+      "sp_defense": 85,
+      "speed": 75
+    },
+    "abilities": [
+      "とびだすハバネロ"
+    ],
+    "moves": [],
+    "base_form": "スコヴィラン"
+  },
+  "メガキラフロル": {
+    "number": "970",
+    "types": [
+      "Rock",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 90,
+      "defense": 105,
+      "sp_attack": 150,
+      "sp_defense": 96,
+      "speed": 101
+    },
+    "abilities": [
+      "てきおうりょく"
+    ],
+    "moves": [],
+    "base_form": "キラフロル"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "ふゆう": {
+        "type_multiplier": { "Ground": 0.0 }
+    },
+    "もらいび": {
+        "type_multiplier": { "Fire": 0.0 }
+    },
+    "ちょすい": {
+        "type_multiplier": { "Water": 0.0 }
+    },
+    "よびみず": {
+        "type_multiplier": { "Water": 0.0 }
+    },
+    "でんきエンジン": {
+        "type_multiplier": { "Electric": 0.0 }
+    },
+    "たいねつ": {
+        "type_multiplier": { "Fire": 0.5 }
+    },
+    "どんかん": {
+        "type_multiplier": { "Ice": 0.5 }
+    },
+    "しんりょく": {},
+    "もうか": {},
+    "げきりゅう": {},
+    "むしのしらせ": {},
+    "ふしぎなまもり": {
+        "special": "wonder_guard"
+    }
+}

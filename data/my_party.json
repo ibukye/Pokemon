@@ -1,0 +1,64 @@
+[
+    {
+        "name": "カイリュー",
+        "types": ["Dragon", "Flying"],
+        "stats": {
+            "hp": 168, "attack": 138, "defense": 115,
+            "sp_attack": 152, "sp_defense": 120, "speed": 145
+        },
+        "moves": ["りゅうせいぐん", "10まんボルト", "かえんほうしゃ", "れいとうビーム"],
+        "item": "カイリュウナイト",
+        "mega": "メガカイリュー"
+    },
+    {
+        "name": "ルカリオ",
+        "types": ["Fighting", "Steel"],
+        "stats": {
+            "hp": 177, "attack": 130, "defense": 92,
+            "sp_attack": 121, "sp_defense": 90, "speed": 156
+        },
+        "moves": ["インファイト", "コメットパンチ", "ストーンエッジ", "つるぎのまい"],
+        "item": "ルカリオナイト",
+        "mega": "メガルカリオ"
+    },
+    {
+        "name": "マスカーニャ",
+        "types": ["Grass", "Dark"],
+        "stats": {
+            "hp": 153, "attack": 178, "defense": 90,
+            "sp_attack": 90, "sp_defense": 90, "speed": 175
+        },
+        "moves": ["トリックフラワー", "トリプルアクセル", "トリック", "とんぼがえり"],
+        "item": "こだわりスカーフ"
+    },
+    {
+        "name": "アーマーガア",
+        "types": ["Flying", "Steel"],
+        "stats": {
+            "hp": 205, "attack": 108, "defense": 172,
+            "sp_attack": 65, "sp_defense": 105, "speed": 88
+        },
+        "moves": ["アイアンヘッド", "ボディプレス", "とんぼがえり", "はねやすめ"],
+        "item": "オボンのみ"
+    },
+    {
+        "name": "アシレーヌ",
+        "types": ["Water", "Fairy"],
+        "stats": {
+            "hp": 183, "attack": 84, "defense": 94,
+            "sp_attack": 180, "sp_defense": 156, "speed": 80
+        },
+        "moves": ["うたかたのアリア", "ムーンフォース", "アクアジェット", "アンコール"],
+        "item": "しんぴのしずく"
+    },
+    {
+        "name": "ガブリアス",
+        "types": ["Dragon", "Ground"],
+        "stats": {
+            "hp": 183, "attack": 200, "defense": 117,
+            "sp_attack": 90, "sp_defense": 105, "speed": 154
+        },
+        "moves": ["じしん", "ほのおのキバ", "スケイルショット", "がんせきふうじ"],
+        "item": "きあいのタスキ"
+    }
+]
